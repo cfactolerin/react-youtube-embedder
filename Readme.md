@@ -1,0 +1,1 @@
+Coded while following Stephen Grider's tutorial on React
